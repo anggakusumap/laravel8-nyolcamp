@@ -14,10 +14,10 @@
                             LEARN FROM EXPERT
                         </p>
                         <h1 class="header">
-                            Semangat <span class="text-purple">Bestie <br> Jangan </span> Lemes
+                            Start Your <span class="text-purple">Developer <br> Journey</span> Today
                         </h1>
                         <p class="support">
-                            Selamat Nyepi <br> Tahun Saka 1944 Bestie.
+                            Our bootcamp is helping junior developers who <br> are really passionate in the programming.
                         </p>
                         <p class="cta">
                             <a href="#" class="btn btn-master btn-primary">
@@ -338,7 +338,7 @@
                     SUCCESS STUDENTS
                 </p>
                 <h2 class="primary-header">
-                    We Really Love NyolCamp
+                    We Really Love Nyolcamp
                 </h2>
             </div>
         </div>
@@ -408,7 +408,7 @@
                 <div class="row copyright">
                     <div class="col-lg-12 col-12">
                         <p>
-                            All Rights Reserved. Copyright NyolCamp BWA Indonesia.
+                            All Rights Reserved. Copyright Nyolcamp BWA Indonesia.
                         </p>
                     </div>
                 </div>
